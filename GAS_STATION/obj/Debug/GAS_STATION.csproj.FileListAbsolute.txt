@@ -1,0 +1,11 @@
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\bin\Debug\db_rtp.mdf
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\bin\Debug\db_rtp_log.ldf
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\bin\Debug\GAS_STATION.exe.config
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\bin\Debug\GAS_STATION.exe
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\bin\Debug\GAS_STATION.pdb
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Debug\GAS_STATION.Form1.resources
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Debug\GAS_STATION.Properties.Resources.resources
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Debug\GAS_STATION.csproj.GenerateResource.Cache
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Debug\GAS_STATION.csproj.CoreCompileInputs.cache
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Debug\GAS_STATION.exe
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Debug\GAS_STATION.pdb

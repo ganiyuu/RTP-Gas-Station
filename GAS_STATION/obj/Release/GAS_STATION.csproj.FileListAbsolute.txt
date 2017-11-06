@@ -1,0 +1,17 @@
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\bin\Release\db_rtp.mdf
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\bin\Release\db_rtp_log.ldf
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\bin\Release\GAS_STATION.exe.config
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\bin\Release\GAS_STATION.exe
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\bin\Release\GAS_STATION.pdb
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Release\GAS_STATION.Form1.resources
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Release\GAS_STATION.Properties.Resources.resources
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Release\GAS_STATION.csproj.GenerateResource.Cache
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Release\GAS_STATION.csproj.CoreCompileInputs.cache
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Release\GAS_STATION.exe
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Release\GAS_STATION.pdb
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\bin\Release\GAS_STATION.exe.manifest
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\bin\Release\GAS_STATION.application
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Release\GAS_STATION.csprojResolveAssemblyReference.cache
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Release\GAS_STATION.TrustInfo.xml
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Release\GAS_STATION.exe.manifest
+C:\Users\fatex\source\repos\GAS_STATION\GAS_STATION\obj\Release\GAS_STATION.application
